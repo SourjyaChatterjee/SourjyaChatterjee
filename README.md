@@ -1,6 +1,6 @@
 ###  👋 Hi there
 ###   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=25 height=25> I am Sourjya Chatterjee,
-🔭 I'm currently doing my master's in **Big Data Analytics**. Majorly focusing upon **CV,NLP,Machine Learning, Deep Learning,AI.**
+🔭 I'm currently doing my master's in **Big Data Analytics**. Majorly focusing upon **CV, NLP, Machine Learning, Deep Learning, AI.**
 <p>
   <em>
     <b>Data Science Student</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=25 height=25> 
@@ -20,7 +20,6 @@
 <a target="_blank"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /></a>
 <a target="_blank"><img alt="Scikit-Learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a>
 <a target="_blank"><img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" /></a>
-<a target="_blank"><img alt="Tensorflow" src="https://img.shields.io/badge/-tensorflow-777BB4?style=for-the-badge&logo=tensorflow&logoColor=white" /></a>
 <a target="_blank"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" /></a>
 <a target="_blank"><img alt="Matplotlib" src="https://img.shields.io/badge/-matplotlib-2C2D72?style=for-the-badge&logo=matplotlib&logoColor=white" /></a>
 
@@ -32,6 +31,7 @@
 ### Social Platforms <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px">
 
   <a href="https://www.linkedin.com/in/sourjya-chatterjee-48174318b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/SourjyaChatter1" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-777BB4?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="sourjyachatterjee1998@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 ![Git stats](https://github-readme-stats.vercel.app/api?username=SourjyaChatterjee&show_icons=true&hide=issues)
