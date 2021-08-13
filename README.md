@@ -1,5 +1,5 @@
 ###  👋 Hi there
-###   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=25 height=25> I am Sourjya Chatterjee,
+###   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=25 height=25> I am Sourjya Chatterjee
 🔭 I'm currently doing my master's in **Big Data Analytics**. Majorly focusing upon **CV, NLP, Machine Learning, Deep Learning, AI.**
 <p>
   <em>
